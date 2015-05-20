@@ -1,2 +1,0 @@
-# sinaapp
- sinaapp程序
